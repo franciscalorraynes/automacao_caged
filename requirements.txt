@@ -1,0 +1,6 @@
+pyautogui
+numpy
+pandas 
+matplotlib
+pyperclip
+selenium
